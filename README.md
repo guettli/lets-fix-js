@@ -30,6 +30,8 @@ Just for fun I keep a list of synomys for "flaw" which I saw while discussing ho
 - horribleness ("I suspect someone out there has documented all of JavaScript's horribleness.")
 - terribleness ("For example, JS equality terribleness will never be fixed by TS, and there is a laundry list of things like that which will never be fixed.")
 
+But let's focus on the way we want it to be.
+
 ## Feedback needed
 
 Please tell me what you think:
