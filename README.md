@@ -47,3 +47,7 @@ Please create a new issue and tell us how you would like JS to look like in the 
 
 If it is confusing, then it is not obvious. This is a flaw.
 
+## Thanks
+
+- @orta at https://gitter.im/Microsoft/TypeScript
+- @MicahZoltu at https://gitter.im/Microsoft/TypeScript
