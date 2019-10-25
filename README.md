@@ -35,7 +35,7 @@ Please create a new issue and tell us how you would like JS to look like in the 
 ## Flaws
 
 ### Equality
-"Equality is one of the most initially confusing aspects of JavaScript."! http://adripofjavascript.com/blog/drips/object-equality-in-javascript.html
+"Equality is one of the most initially confusing aspects of JavaScript." Source: http://adripofjavascript.com/blog/drips/object-equality-in-javascript.html
 
 If it is confusing, then it is not obvious. This is a flaw.
 
