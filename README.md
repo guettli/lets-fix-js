@@ -28,3 +28,11 @@ Please tell me what you think:
 
 
 Let's influence the future **together** :-)
+
+## Flaws
+
+### Equality
+"Equality is one of the most initially confusing aspects of JavaScript."! http://adripofjavascript.com/blog/drips/object-equality-in-javascript.html
+
+If it is confusing, then it is not obvious. This is a flaw.
+
