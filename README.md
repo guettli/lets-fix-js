@@ -8,6 +8,10 @@ Goal: fix the flaws by influencing future specification.
 
 Before fixing the flaws consensus is needed.
 
+## How to make the transition?
+
+The transition to the cleaned up version could be done like it once in Perl (`use strict`) or like a `__future__` import Python.
+
 ## Current step: Write down the flaws
 
 Before consensus can be reached, the flaws need to be written down.
