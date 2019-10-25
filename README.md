@@ -25,9 +25,12 @@ Please tell me what you think:
 
 - Which flaws does JS have?
 - Why do you prefer a different language? What could be added to JS to make it more attractive?
+- Why did you avoid JS in the past? Please provide feedback!
 
 
 Let's influence the future **together** :-)
+
+Please create a new issue and tell us how you would like JS to look like in the future: https://github.com/guettli/lets-fix-js/issues/new
 
 ## Flaws
 
