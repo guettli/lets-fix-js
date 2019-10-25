@@ -1,14 +1,14 @@
 # Let's fix JS
 
-JavaScript is everywhere. It got better during the last years, but some things are still inconvient.
+JavaScript is everywhere. It got better during the last years, but some things are still  inconvenient.
 
 ## Long term goal: fix the flaws.
 
-Before fixing the flaws concensus is needed.
+Before fixing the flaws consensus is needed.
 
 ## Current step: Write down the flaws
 
-Before concenus can be reached, the flaws need to be written down.
+Before consensus can be reached, the flaws need to be written down.
 
 ## Feedback needed
 
