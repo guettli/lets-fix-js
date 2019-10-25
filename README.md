@@ -10,7 +10,7 @@ Before fixing the flaws consensus is needed.
 
 ## How to make the transition?
 
-The transition to the cleaned up version could be done like it once in Perl (`use strict`) or like a `__future__` import Python.
+The transition to the cleaned up version could be done to improve the [strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 
 ## Current step: Write down the flaws
 
