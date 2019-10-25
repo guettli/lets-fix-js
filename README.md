@@ -10,6 +10,15 @@ Before fixing the flaws consensus is needed.
 
 Before consensus can be reached, the flaws need to be written down.
 
+## What is a flaw?
+
+Everything which can be done simpler or more obivious is a flaw. 
+
+If unsure, the [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) is a good general guideline.
+
+Of course there is no single truth. Agreement need to be found by discussing and maybe voting.
+
+
 ## Feedback needed
 
 Please tell me what you think:
