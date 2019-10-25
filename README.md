@@ -24,6 +24,11 @@ If unsure, the [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) is a
 
 Of course there is no single truth. Agreement need to be found by discussing and maybe voting.
 
+Just for fun I keep a list of synomys for "flaw" which I saw while discussing how to fix JS:
+
+- JS baggage ("if you want to see what a version of TypeScript without JS baggage looks like, check out static TypeScript")
+- horribleness ("I suspect someone out there has documented all of JavaScript's horribleness.")
+- terribleness ("For example, JS equality terribleness will never be fixed by TS, and there is a laundry list of things like that which will never be fixed.")
 
 ## Feedback needed
 
