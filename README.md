@@ -4,6 +4,8 @@ JavaScript is everywhere. It got better during the last years, but some things a
 
 ## Long term goal: fix the flaws.
 
+Goal: fix the flaws by influencing future specification.
+
 Before fixing the flaws consensus is needed.
 
 ## Current step: Write down the flaws
