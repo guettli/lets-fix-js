@@ -1,6 +1,6 @@
 # Let's fix JS
 
-JavaScript is everywhere. It got better during the last years, but some things are still  inconvenient.
+JavaScript and JSON are everywhere. JavaScript got better during the last years, but some things are still  inconvenient.
 
 ## Long term goal: fix the flaws.
 
@@ -49,10 +49,18 @@ Please create a new issue and tell us how you would like JS to look like in the 
 
 ## Flaws
 
-### Equality
+### JavaScript Equality
 "Equality is one of the most initially confusing aspects of JavaScript." Source: http://adripofjavascript.com/blog/drips/object-equality-in-javascript.html
 
 If it is confusing, then it is not obvious. This is a flaw.
+
+### JSON: No binary data type
+
+There thousand ways to work around it. Very common is base64 encoding. But that's a useless work-around.
+
+### JSON: No Datetime data type
+
+It would be nice to support it.
 
 ## Thanks
 
