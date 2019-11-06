@@ -74,6 +74,15 @@ There thousand ways to work around it. Very common is base64 encoding. But that'
 
 It would be nice to support it.
 
+#### JSON: Comments
+Quoting @asb:
+
+> Leave comments is essential for human beings understand what is going up.
+> Is the best practice in any programming language.
+> Is kind and nice for all who will study what is done.
+> Every one knows that JSON was, -was- a encapsuled internal way to exchange data in javascript
+> but now JSON is used do describe the data for all world.
+> So, please make // into comments for JSON, let the spice flow.
 
 ## Thanks
 
