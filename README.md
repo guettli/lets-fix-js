@@ -74,7 +74,8 @@ There thousand ways to work around it. Very common is base64 encoding. But that'
 
 It would be nice to support it.
 
-#### JSON: Comments
+### JSON: Comments
+
 Quoting @asb:
 
 > Leave comments is essential for human beings understand what is going up.
