@@ -88,3 +88,4 @@ Quoting @asb:
 
 - @orta at https://gitter.im/Microsoft/TypeScript
 - @MicahZoltu at https://gitter.im/Microsoft/TypeScript
+- @agsb issue #1
