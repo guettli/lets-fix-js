@@ -54,6 +54,18 @@ Please create a new issue and tell us how you would like JS to look like in the 
 
 If it is confusing, then it is not obvious. This is a flaw.
 
+
+### JavaScript: Support for BigInts
+
+https://stackoverflow.com/questions/48802728/how-to-marshal-json-with-bigints
+
+Works in Python
+```python
+import json
+>>> json.dumps(json.loads('{"NETWORK_ID": 6000370005980500000071}'))
+'{"NETWORK_ID": 6000370005980500000071}'
+```
+
 ### JSON: No binary data type
 
 There thousand ways to work around it. Very common is base64 encoding. But that's a useless work-around.
@@ -61,6 +73,7 @@ There thousand ways to work around it. Very common is base64 encoding. But that'
 ### JSON: No Datetime data type
 
 It would be nice to support it.
+
 
 ## Thanks
 
