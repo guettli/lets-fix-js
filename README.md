@@ -89,6 +89,12 @@ Quoting @asb:
 > but now JSON is used do describe the data for all world.
 > So, please make // into comments for JSON, let the spice flow.
 
+### JSON: Timedelta
+
+A timedelta datatype would be very nice.
+
+Other tools which support this: [PostgreSQL Interval](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-INTERVAL-INPUT)
+
 ## New Features
 
 Here some new features for JS and JSON
