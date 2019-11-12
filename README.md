@@ -84,6 +84,17 @@ Other tools which support this:
 * [PostgreSQL Date/Time](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-DATETIME-INPUT)
 * [Python datetime](https://docs.python.org/3/library/datetime.html#datetime-objects)
 
+
+### JSON: Timedelta
+
+A timedelta datatype would be very nice.
+
+Other tools which support this: 
+
+* [PostgreSQL Interval](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-INTERVAL-INPUT)
+* [Python timedelta](https://docs.python.org/3/library/datetime.html#timedelta-objects)
+* [Protobuf Duration](https://developers.google.com/protocol-buffers/docs/reference/google.protobuf#duration)
+
 ### JSON: Comments
 
 Quoting @asb:
@@ -94,15 +105,6 @@ Quoting @asb:
 > Every one knows that JSON was, -was- a encapsuled internal way to exchange data in javascript
 > but now JSON is used do describe the data for all world.
 > So, please make // into comments for JSON, let the spice flow.
-
-### JSON: Timedelta
-
-A timedelta datatype would be very nice.
-
-Other tools which support this: 
-
-* [PostgreSQL Interval](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-INTERVAL-INPUT)
-* [Python timedelta](https://docs.python.org/3/library/datetime.html#timedelta-objects)
 
 ## New Features
 
