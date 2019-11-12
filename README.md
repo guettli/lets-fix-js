@@ -80,7 +80,7 @@ It would be nice to support it.
 
 Other tools which support this:
 
-* [Protobuf Timestamp](https://developers.google.com/protocol-buffers/docs/reference/csharp/class/google/protobuf/well-known-types/timestamp)
+* [Protobuf Timestamp](https://developers.google.com/protocol-buffers/docs/reference/google.protobuf#google.protobuf.Timestamp)
 * [PostgreSQL Date/Time](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-DATETIME-INPUT)
 * [Python datetime](https://docs.python.org/3/library/datetime.html#datetime-objects)
 
