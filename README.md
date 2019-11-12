@@ -70,9 +70,15 @@ import json
 '{"NETWORK_ID": 6000370005980500000071}'
 ```
 
-### JSON: No binary data type
+### JSON: binary data type
 
 There thousand ways to work around it. Very common is base64 encoding. But that's a useless work-around.
+
+In Python you can create binary data with the "b" prefix. Example:
+
+```
+binary_data = b'\x00\xff....'
+```
 
 ### JSON: No Datetime data type
 
