@@ -16,6 +16,10 @@ The transition to the cleaned up version could be done to improve the [strict mo
 
 Before consensus can be reached, the flaws need to be written down.
 
+## Later
+
+[Contributing to ECMAScript](https://github.com/tc39/ecma262/blob/master/CONTRIBUTING.md)
+
 ## What is a flaw?
 
 Everything which can be done simpler or more obivious is a flaw. 
