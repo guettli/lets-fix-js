@@ -93,7 +93,10 @@ Quoting @asb:
 
 A timedelta datatype would be very nice.
 
-Other tools which support this: [PostgreSQL Interval](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-INTERVAL-INPUT)
+Other tools which support this: 
+
+* [PostgreSQL Interval](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-INTERVAL-INPUT)
+* [Python timedelta](https://docs.python.org/3/library/datetime.html#timedelta-objects)
 
 ## New Features
 
