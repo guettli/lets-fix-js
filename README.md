@@ -80,8 +80,8 @@ It would be nice to support it.
 
 Other tools which support this:
 
-* [Protobuf Timestamp](https://developers.google.com/protocol-buffers/docs/reference/google.protobuf#google.protobuf.Timestamp)
 * [PostgreSQL Date/Time](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-DATETIME-INPUT)
+* [Protobuf Timestamp](https://developers.google.com/protocol-buffers/docs/reference/google.protobuf#google.protobuf.Timestamp)
 * [Python datetime](https://docs.python.org/3/library/datetime.html#datetime-objects)
 
 
@@ -92,8 +92,8 @@ A timedelta datatype would be very nice.
 Other tools which support this: 
 
 * [PostgreSQL Interval](https://www.postgresql.org/docs/12/datatype-datetime.html#DATATYPE-INTERVAL-INPUT)
-* [Python timedelta](https://docs.python.org/3/library/datetime.html#timedelta-objects)
 * [Protobuf Duration](https://developers.google.com/protocol-buffers/docs/reference/google.protobuf#duration)
+* [Python timedelta](https://docs.python.org/3/library/datetime.html#timedelta-objects)
 
 ### JSON: Comments
 
