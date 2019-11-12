@@ -89,6 +89,20 @@ Quoting @asb:
 > but now JSON is used do describe the data for all world.
 > So, please make // into comments for JSON, let the spice flow.
 
+## New Features
+
+Here some new features for JS and JSON
+
+### Bidirectional replication
+
+If would be very handy if bidirectional replication would be made available in JavaScript.
+
+PouchDB already implements such a feature. See: https://pouchdb.com/guides/replication.html#couchdb-sync
+
+This would make it much easier to write "offline first" applications.
+
+I how no clue how to implement this, but I would love to use it, if it was available.
+
 ## Thanks
 
 - @orta at https://gitter.im/Microsoft/TypeScript
