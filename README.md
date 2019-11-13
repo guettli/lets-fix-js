@@ -116,15 +116,17 @@ Quoting @asb:
 
 Here some new features for JS and JSON
 
-### Bidirectional replication
+### w3c: Bidirectional replication
 
-If would be very handy if bidirectional replication would be made available in JavaScript.
+If would be very handy if bidirectional replication (for example for IndexedDB) would be made available in JavaScript.
 
 PouchDB already implements such a feature. See: https://pouchdb.com/guides/replication.html#couchdb-sync
 
 This would make it much easier to write "offline first" applications.
 
 I how no clue how to implement this, but I would love to use it, if it was available.
+
+AFAIK this feature request needs to be sent to w3c.
 
 ## Thanks
 
