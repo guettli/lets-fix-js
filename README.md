@@ -128,6 +128,8 @@ I how no clue how to implement this, but I would love to use it, if it was avail
 
 AFAIK this feature request needs to be sent to w3c.
 
+There is already work in progress: http://wicg.github.io/indexed-db-observers/
+
 ## Thanks
 
 - @orta at https://gitter.im/Microsoft/TypeScript
