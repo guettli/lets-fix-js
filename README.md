@@ -112,6 +112,12 @@ Quoting @asb:
 > but now JSON is used do describe the data for all world.
 > So, please make // into comments for JSON, let the spice flow.
 
+Why HCL (HashiCorp Configuration Language) was invented:
+
+> JSON ... is fairly verbose and most importantly doesn't support comments. 
+
+Source: https://github.com/hashicorp/hcl
+
 ## New Features
 
 Here some new features for JS and JSON
