@@ -2,6 +2,8 @@
 
 JavaScript and JSON are everywhere. JavaScript got better during the last years, but some things are still  inconvenient.
 
+For other things which I think need an agreement/spec/ see [Missing Internet Specs](https://github.com/guettli/missing-internet-specs)
+
 ## Long term goal: fix the flaws.
 
 Goal: fix the flaws by influencing future specification.
