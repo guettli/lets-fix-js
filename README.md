@@ -60,6 +60,14 @@ Please create a new issue and tell us how you would like JS to look like in the 
 
 If it is confusing, then it is not obvious. This is a flaw.
 
+### Check if a dictionary is empty
+
+It is way to complicated to check if a dictionary is empty:
+
+`Object.keys(obj).length === 0;`
+
+Above solution is from [How to match an empty dictionary in Javascript?](https://stackoverflow.com/questions/6072590/how-to-match-an-empty-dictionary-in-javascript)
+
 
 ### JavaScript: Support for BigInts
 
