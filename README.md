@@ -66,7 +66,7 @@ It is way to complicated to check if a dictionary is empty:
 
 `Object.keys(obj).length === 0;`
 
-Above solution is from [How to match an empty dictionary in Javascript?](https://stackoverflow.com/questions/6072590/how-to-match-an-empty-dictionary-in-javascript)
+Above solution is from [How do I test for an empty JavaScript object?](https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object)
 
 
 ### JavaScript: Support for BigInts
