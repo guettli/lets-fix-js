@@ -1,6 +1,12 @@
 # Let's fix JS
 
-JavaScript and JSON are everywhere. JavaScript got better during the last years, but some things are still  inconvenient.
+JavaScript is everywhere. JavaScript got better during the last years, but some things are still inconvenient.
+
+## Update January 2020
+
+Abondoned: I think [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) will gain traction and JavaScript usage will decrease. That's why I think it does not make sense any more to fix fundamental flaws in JavaScript.
+
+The rest of this text is left for the curious reader.
 
 For other things which I think need an agreement/spec/ see [Missing Internet Specs](https://github.com/guettli/missing-internet-specs)
 
