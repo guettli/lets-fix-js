@@ -134,24 +134,6 @@ Why HCL (HashiCorp Configuration Language) was invented:
 
 Source: https://github.com/hashicorp/hcl
 
-## New Features
-
-Here some new features for JS and JSON
-
-### w3c: Bidirectional replication
-
-If would be very handy if bidirectional replication (for example for IndexedDB) would be made available in JavaScript.
-
-PouchDB already implements such a feature. See: https://pouchdb.com/guides/replication.html#couchdb-sync
-
-This would make it much easier to write "offline first" applications.
-
-I how no clue how to implement this, but I would love to use it, if it was available.
-
-AFAIK this feature request needs to be sent to w3c.
-
-There is already work in progress: http://wicg.github.io/indexed-db-observers/
-
 ## Thanks
 
 - @orta at https://gitter.im/Microsoft/TypeScript
